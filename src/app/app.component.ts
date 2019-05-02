@@ -1,7 +1,5 @@
 /* global Tesseract */
 import { Component } from '@angular/core';
-// import * as Tesseract from 'tesseract.js';
-import 'tesseract.js';
 
 @Component({
   selector: 'app-root',
